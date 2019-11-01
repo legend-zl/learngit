@@ -7,4 +7,6 @@ Git tracks chages of files
 
 hehehehhehe
 
+Creating a new branch is quick AND simple 
+
 
